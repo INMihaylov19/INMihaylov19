@@ -34,6 +34,15 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inmihaylov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true)
 </details>
 
+<details>
+  <summary><b>📚 Badges</b></summary>
+
+[Microsoft Excel](http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957)
+[MTA: Introduction to Programming Using HTML and CSS](http://www.credly.com/badges/50443da3-91dc-4cda-b602-2a9db3d76249)
+[![Microsoft Word (Office 2016)](https://images.credly.com/size/110x110/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)](http://www.credly.com/badges/e6d36159-6402-4420-ac42-45407b356dda)
+[![MTA: Introduction to Programming Using JavaScript](https://images.credly.com/size/110x110/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png)](http://www.credly.com/badges/a6f166f2-d8e6-4890-9686-3e2721bc1123)
+</details>  
+
 
 
 
