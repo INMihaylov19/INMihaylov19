@@ -22,6 +22,9 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
+<br>
+<br>
+
 ---
 
 <details>	
