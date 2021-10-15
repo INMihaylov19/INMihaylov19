@@ -2,7 +2,7 @@
 
 - 🏫 &nbsp; Student at [@codingburgas](https://github.com/codingburgas)
 - ⚡ &nbsp; Fun fact: Julius Caesar once said: "Cowards die many times before their deaths."
-- 📫 &nbsp; You can can reach me at: INMihaylov19@codingburgas.bg
+- 📫 &nbsp; You can reach me at: INMihaylov19@codingburgas.bg
 
 ### Languages and Tools:
 
