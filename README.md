@@ -1,6 +1,6 @@
 ### Hello there, I'm Ivan - [INMihaylov19](https://github.com/INMihaylov19) 👋
 
-- 🔭 &nbsp; Student at [@codingburgas](https://github.com/codingburgas)
+- 🏫 &nbsp; Student at [@codingburgas](https://github.com/codingburgas)
 - ⚡ &nbsp; Fun fact: Julius Caesar once said: "Cowards die many times before their deaths."
 - 📫 &nbsp; You can can reach me at: INMihaylov19@codingburgas.bg
 
